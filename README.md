@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghav Gera</h1>
+<h1 align="center">Hey there, I'm Raghav Gera</h1>
 <h3 align="center">A passionate AI engineer from India.</h3>
 
 - 📫 How to reach me **raghavgera123@gmail.com**
