@@ -101,11 +101,11 @@ Built a browser-based screen-sharing system using WebRTC and Socket.IO for real-
 
 ## 📊 GitHub Stats
 
+## 📈 GitHub
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaghavGera&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGera&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=RaghavGera&theme=github-dark&hide_border=true)
 
 </div>
 
