@@ -1,22 +1,124 @@
-<h1 align="center">Hey there, I'm Raghav Gera</h1>
-<h3 align="center">A passionate AI engineer from India.</h3>
+<div align="center">
 
-- 📫 How to reach me **raghavgera123@gmail.com**
+# Hey, I'm Raghav Gera 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/raghav-gera-68633a308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghav-gera-68633a308/" height="30" width="40" /></a>
-<a href="https://instagram.com/raghavwtf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/raghavwtf" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/raghavgera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/raghavgera" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/raghavgera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/raghavgera" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/raghavoid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/raghavoid/" height="30" width="40" /></a>
-</p>
+### AI-focused Computer Science Student · Builder · Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Building **AI-powered applications, intelligent workflows, and real-time systems.**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavgera&show_icons=true&locale=en&layout=compact" alt="raghavgera" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavgera&show_icons=true&locale=en" alt="raghavgera" /></p>
+<a href="https://linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:raghavgera123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/RaghavGera">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavgera&" alt="raghavgera" /></p>
+</div>
+
+---
+
+## 🧠 About Me
+
+* 🎓 Computer Science student specializing in **Artificial Intelligence**
+* 🤖 Interested in **Generative AI, LLMs, and AI-powered applications**
+* ☁️ Working with **Microsoft Azure** and cloud-based systems
+* ⚡ Building projects that combine **AI + software engineering**
+* 🔭 Currently exploring **Agentic AI and intelligent automation**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### AI & Cloud
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square)
+![LLM](https://img.shields.io/badge/LLMs-111111?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6F42C1?style=flat-square)
+
+### Web & Systems
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square\&logo=webrtc\&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔎 QueryMind
+
+**LLM-powered Natural Language → SQL system**
+
+Converts natural-language questions into SQL using schema analysis, intent extraction, ambiguity detection, and query generation.
+
+**Highlights:**
+`10 ambiguity categories` · `4 severity levels` · `SQL validation` · `query safety`
+
+---
+
+### 📄 AI-Powered Document Analyzer
+
+**AI document intelligence powered by Microsoft Azure**
+
+Processes unstructured documents and generates structured insights including risk scores, summaries, findings, entities, and action items.
+
+**Highlights:**
+`Document Chunking` · `AI Analysis` · `Risk Detection` · `Structured Insights`
+
+---
+
+### 🖥️ ScreenSync
+
+**Real-time peer-to-peer screen sharing**
+
+Built a browser-based screen-sharing system using WebRTC and Socket.IO for real-time communication between users.
+
+**Highlights:**
+`WebRTC` · `Socket.IO` · `P2P Communication` · `Real-time Systems`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RaghavGera&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavGera&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+**Generative AI · LLM Applications · Agentic AI · AI Automation · Cloud AI**
+
+---
+
+<div align="center">
+
+### Building something interesting? Let's connect.
+
+</div>
